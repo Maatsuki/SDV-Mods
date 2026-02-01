@@ -182,7 +182,7 @@
     "time.freeze-inside": "Parar o tempo dentro das construções",
     "time.freeze-caves": "Parar o tempo nas cavernas",
     "time.freeze-everywhere": "Parar o tempo em qualquer lugar",
-    "time.fade-time-frozen-message": "Esconder \"{{timeFrozen}}\" após alguns segundos",
+    "time.fade-time-frozen-message": "Esconder '{{timeFrozen}}' após alguns segundos",
     "time.time": "Horário",
     "time.time-frozen-message": "Tempo parado",
 
